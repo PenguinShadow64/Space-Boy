@@ -75,3 +75,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Space_Boi/Intermediate/*.bin
+/Space_Boi/Saved/Logs/*.log
