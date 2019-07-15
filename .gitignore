@@ -77,3 +77,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 /Space_Boi/Intermediate/*.bin
 /Space_Boi/Saved/Logs/*.log
+/Space_Boi/Intermediate/CachedAssetRegistry.bin
+/Space_Boi/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+/Space_Boi/Saved/Logs/Space_Boi.log
